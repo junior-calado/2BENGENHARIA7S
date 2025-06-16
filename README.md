@@ -1,5 +1,10 @@
 # API de Gerenciamento de Cards MTG
 
+> 📺 **Vídeo Explicativo:**
+>
+> Um vídeo explicando o funcionamento do projeto pode ser acessado neste link:
+> [Assista aqui](https://drive.google.com/file/d/1AejzjPecQhT-LzgUleQcmXHs2u1G_-J7/view?usp=sharing)
+
 Este é um projeto de API REST desenvolvido em Go (Golang) para gerenciamento de cards do jogo Magic: The Gathering. A API utiliza autenticação JWT e banco de dados PostgreSQL.
 
 ## 🚀 Tecnologias Utilizadas
